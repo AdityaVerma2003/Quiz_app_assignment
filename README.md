@@ -14,7 +14,6 @@ A simple Quiz Application made in **Kotlin**. It enables the user to undertake a
 <div style="display:flex;">
 <img src="screenshots/img4.jpeg" width="260" height = "500">
 <img src="screenshots/img5.jpeg" width="260" height = "500">
-<img src="screenshots/img6.jpeg" width="260" height = "500">
 </div>
 
 ## 🌟 Prerequisites
